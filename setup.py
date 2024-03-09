@@ -5,8 +5,7 @@ setup(
     version='0.2',
     packages=find_packages(),
     install_requires=[
-        'requests',
-        'uuid',
+        'requests'
     ],
     author='Amir Agassi',
     author_email='amiragassi04@gmail.com',
