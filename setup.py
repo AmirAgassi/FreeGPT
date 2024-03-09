@@ -9,7 +9,7 @@ setup(
         'uuid',
     ],
     author='Amir Agassi',
-    author_email='agas8186@mylaurier.ca',
+    author_email='amiragassi04@gmail.com',
     description='A Python package for integrating with the internal OpenAI Chat API.',
     classifiers=[
         'Development Status :: 3 - Alpha',
